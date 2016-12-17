@@ -6,7 +6,7 @@ Weathertalkは、天気予報をWebAPIを用いて取得し、音声で読み上
 #使用方法
 AI-Talkのユーザー名／パスワードをaitalk.py中に設定します。
 
-`python weathertalk.py
+'python weathertalk.py
 
 
 #設定
